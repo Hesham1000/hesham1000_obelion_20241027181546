@@ -8,14 +8,16 @@
         "client": "npm run --prefix client start"
     },
     "dependencies": {
-        "react": "latest",
+        "react": "17.0.2",
+        "lodash": "4.17.21",
         "axios": "0.21.1",
+        "react-dom": "17.0.2",
         "eslint": "latest",
         "webpack": "latest"
     },
     "devDependencies": {
+        "eslint": "latest",
         "axios": "0.21.1",
-        "webpack": "latest",
-        "eslint": "latest"
+        "webpack": "latest"
     }
 }
